@@ -1,0 +1,13 @@
+{
+  "subdomain": "example",
+  "owner": {
+    "github": "GitHubUsername",
+    "email": "user@example.com"
+  },
+  "records": {
+    "A": ["192.168.1.1"],
+    "AAAA": ["2001:db8::1"],
+    "CNAME": "example.com"
+  },
+  "created_at": "2025-03-03"
+}
